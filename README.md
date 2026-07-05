@@ -6,32 +6,37 @@ My CS coding journey 💻
 Hello World
 
 
-## DAY2_Sum_Of_Two_Numbers.c
-**Input:** 5, 3
-**Output:**
-Enter first number: 5
-Enter second number: 3
-Sum = 8
+    Day 2 of 365-basics
+    Learning C Basics for TCS
+    
+    Enter first number: 5
+    Enter second number: 3
+    
+    --------------------
+    Sum = 8
+    --------------------
+    Day 2 Completed
 
 ## DAY2_Sum_Of_Two_numbers_v2.c
-**Input:** 8, 12
+**Input:** 20, 8
 **Output:**
-Enter first number: 8
-Enter second number: 12
-Sum = 20
+Enter first number: 20
+Enter second number: 8
+Sum = 28
 
 
 ## DAY3_Swap_Two_Numbers.c
 **Input:** 10, 20
 **Output:**
-Before Swap: a = 10, b = 20
-After Swap: a = 20, b = 10
+    Enter first number: 10
+    Enter second number: 20
+    After Swap: a = 20, b = 10
 
 
 ## DAY4_Even_Odd_Number.c
 **Input:** 15
 **Output:**
-Enter a number: 15
+Enter any number: 15
 15 is Odd Number
 
 ## DAY5_Factorial.c
@@ -43,5 +48,5 @@ Factorial of 5 = 120
 ## DAY5_Largest_Number.c
 **Input:** 10, 25, 7
 **Output:**
-Enter 3 numbers: 10 25 7
-Largest Number = 25
+    Enter three number: 10 25 7
+    largest number: 25
