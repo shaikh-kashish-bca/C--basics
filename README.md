@@ -6,17 +6,6 @@ My CS coding journey 💻
 Hello World
 
 
-    Day 2 of 365-basics
-    Learning C Basics for TCS
-    
-    Enter first number: 5
-    Enter second number: 3
-    
-    --------------------
-    Sum = 8
-    --------------------
-    Day 2 Completed
-
 ## DAY2_Sum_Of_Two_numbers_v2.c
 **Input:** 20, 8
 **Output:**
